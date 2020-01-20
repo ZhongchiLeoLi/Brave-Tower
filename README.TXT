@@ -11,4 +11,4 @@ https://zhongchi.me/Brave-Tower-3f10e9f7e6cd4495812b3d8cffbff887
 ------------------------------------------------------------------------
 
 HOW TO START THIS PROJECT: Run project on Greenfoot
-AUTHORS: Alexander Yee, Zhongchi Li, Daniel Tan, Deston Wong, Justin Huynh, 
+AUTHORS: Alexander Yee, Zhongchi Li, Daniel Tan, Deston Wong, Justin Huynh
