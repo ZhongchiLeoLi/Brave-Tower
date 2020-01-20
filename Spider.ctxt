@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Spider
+comment0.text=\r\n\ The\ spider\ enemy\ can\ move\ 1\ space\ diagonally.\r\n\r\n\ @author\ Alexander\ \r\n\ @version\ January\ 2018\r\n
+comment1.params=y\ x
+comment1.target=Spider(int,\ int)
+comment1.text=\r\n\ Spawns\ a\ spider\ into\ the\ level.\r\n\ @param\ y\ The\ Y\ grid\ placement.\r\n\ @param\ x\ The\ X\ grid\ placement.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ Slime\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=
+comment3.target=void\ addedToWorld()
+numComments=4

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Display
+comment0.text=\r\n\ Displays\ images\ that\ can\ vary\ in\ size\r\n\ \r\n\ @author\ Alexander\r\n\ @version\ January\ 2019\r\n
+comment1.params=length\ width\ image
+comment1.target=Display(int,\ int,\ java.lang.String)
+comment1.text=\r\n\ Controls\ the\ size\ and\ what\ image\ to\ display.\r\n\ @param\ length\ The\ X\ size\ of\ the\ image.\r\n\ @param\ width\ The\ Y\ size\ of\ the\ image.\r\n
+numComments=2

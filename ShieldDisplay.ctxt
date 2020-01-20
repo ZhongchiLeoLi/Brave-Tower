@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=ShieldDisplay
+comment0.text=\r\n\ An\ indicator\ for\ the\ remaining\ amount\ of\ shields\ the\ player\ has\ remaining\ throughout\ the\ playthrough\r\n\ of\ the\ game.\ Placed\ at\ the\ top\ of\ the\ stage,\ acting\ similarly\ to\ a\ display\ for\ the\ number\ of\ lives\ \r\n\ of\ the\ player\ which\ decreases\ when\ hit\ by\ an\ enemy.\r\n\ \r\n\ @author\ Deston\ Wong\ and\ Justin\ Huynh\r\n\ @version\ January\ 2019\r\n
+comment1.params=
+comment1.target=ShieldDisplay()
+comment1.text=\r\n\ Main\ constructor\ for\ ShieldDisplay.\ Scales\ all\ images\ to\ appropriate\ size\ and\ displays\r\n\ original\ shield\ image\ when\ player\ enters\ world\ for\ the\ first\ time.\r\n
+comment2.params=
+comment2.target=void\ decreaseShield()
+comment2.text=\r\n\ Decreases\ the\ amount\ of\ health\ displayed\ by\ the\ shield.\r\n
+comment3.params=n
+comment3.target=void\ setCurrentHealth(int)
+comment3.text=\r\n\ Sets\ the\ current\ health\ of\ the\ shield\ to\ a\ new\ value.\ \r\n\ \r\n\ @param\ n\ \ \ \ \ The\ new\ value\ to\ be\ assigned\ to\ shield\ health.\r\n
+comment4.params=
+comment4.target=int\ getLives()
+comment4.text=\r\n\ Returns\ the\ current\ health\ value\ of\ the\ shield.\r\n\ \r\n\ @return\ int\ \ The\ current\ durability\ value\ of\ the\ shield,\ out\ of\ 3.\r\n
+numComments=5

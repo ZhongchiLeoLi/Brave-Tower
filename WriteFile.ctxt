@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=WriteFile
+comment0.text=\r\n\ Writer\ class\ used\ to\ write\ lines\ of\ text\ into\ a\ text\ file\r\n\ \r\n\ @author\ Mr.\ Cohen\r\n\ @version\ November\ 2018\r\n
+comment1.params=filePath
+comment1.target=WriteFile(java.lang.String)
+comment1.text=\r\nCreates\ new\ object\ of\ WriteFile,\ with\ only\ the\ file\ path.\ This\ means\ that\ if\ the\ file\ already\r\nexists,\ it\ will\ BE\ OVER-WRITTEN.\ (Be\ careful)\r\n\r\n@param\ file_path\ Name\ and\ location\ of\ file\r\n
+comment2.params=file_path\ appendValue
+comment2.target=WriteFile(java.lang.String,\ boolean)
+comment2.text=\r\n\ Creates\ new\ object\ of\ WriteFile,\ with\ the\ file\ path,\ and\ user\ can\ indicate\ if\ they\r\n\ wish\ to\ append\ the\ file\ by\ setting\ append_value\ to\ true.\r\n\ \r\n\ @param\ filePath\ Name\ and\ location\ of\ file\r\n\ @param\ appendValue\ Appends\ the\ file\ when\ true\ -\ meaning\ adds\ to\ existing\ file,\ not\ start\ a\ new\ one\r\n
+comment3.params=textLine
+comment3.target=void\ writeToFile(java.lang.String)
+numComments=4

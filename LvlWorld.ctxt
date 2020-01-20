@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=LvlWorld
+comment0.text=\r\n\ Subclass\ of\ MyWorld\ that\ inherits\ important\ variables\ and\ methods\ used\ to\ create\ specific\ \r\n\ floors\ depending\ on\ the\ state\ of\ the\ player,\ as\ well\ as\ placing\ monsters\ and\ setting\ up\ \r\n\ the\ terrain\r\n\ \r\n\ @author\ Daniel\r\n\ @version\ January\ 2019\r\n
+comment1.params=lvlType\ reset
+comment1.target=LvlWorld(int,\ boolean)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ LvlWorld.\r\n\ \r\n\ @param\ lvlType\ Type\ of\ level\ to\ create\r\n\ @param\ reset\ \ \ If\ True\ resets\ the\ certain\ variables,\ used\ for\ restarting\ the\ game\r\n
+comment2.params=lvlType
+comment2.target=void\ layout(int)
+numComments=3

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=GameLost
+comment0.text=\r\n\ The\ game\ over\ screen\ when\ the\ player\ dies\ before\ reaching\ the\ exit\r\n\ \r\n\ @author\ Justin\ and\ Deston\r\n\ @version\ January\ 2019\r\n
+comment1.params=
+comment1.target=GameLost()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ GameLost.\r\n\ \r\n
+comment2.params=minText\ secText
+comment2.target=void\ setTime(java.lang.String,\ java.lang.String)
+comment2.text=\r\n\ Setter\ method\ to\ obtain\ the\ player\u00E2\u20AC\u2122s\ total\ time\ from\ when\ they\ started\ the\ game\r\n\ @param\ minText\ The\ total\ number\ of\ minutes\ passed\ since\ the\ start\ of\ the\ game\r\n\ @param\ secText\ The\ total\ number\ of\ seconds\ passed\ since\ the\ start\ of\ the\ game\ (residual)\r\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ Act\ method,\ checking\ user\u00E2\u20AC\u2122s\ input\r\n
+numComments=4

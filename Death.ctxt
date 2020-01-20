@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Death
+comment0.text=\r\n\ The\ corpses\ of\ enemies\ as\ they\ die.\ \r\n\ \r\n\ @author\ Alexander\ \r\n\ @version\ January\ 2019\r\n
+comment1.params=
+comment1.target=Death()
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ Death\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=w
+comment3.target=void\ addedToWorld(greenfoot.World)
+comment4.params=
+comment4.target=void\ animate()
+numComments=5

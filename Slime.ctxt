@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Slime
+comment0.text=\r\n\ The\ slime\ enemy\ can\ move\ 1\ space\ in\ the\ horizontal/vertical\ direction.\r\n\ \r\n\ @author\ Alexander\ \r\n\ @version\ January\ 2019\r\n
+comment1.params=y\ x
+comment1.target=Slime(int,\ int)
+comment1.text=\r\n\ Spawns\ a\ mirror\ into\ the\ level.\r\n\ @param\ y\ The\ Y\ grid\ placement.\r\n\ @param\ x\ The\ X\ grid\ placement.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ Slime\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=w
+comment3.target=void\ addedToWorld(greenfoot.World)
+numComments=4

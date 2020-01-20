@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=BubbleSort
+comment0.text=\r\n\ Helper\ class\ used\ to\ take\ a\ score\ and\ add\ it\ to\ the\ file,\ sort\ all\ the\ files,\ then\ add\ the\ top\ five\ scores\ back\ to\ the\ file\r\n\ \r\n\ @author\ Justin\ and\ Deston\r\n\ @version\ January\ 2019\r\n\ \r\n
+comment1.params=fileName\ min\ sec
+comment1.target=void\ sortAndRewrite(java.lang.String,\ int,\ int)
+comment1.text=\r\n\ Main\ method\ where\ all\ the\ processes\ (reading,\ writing,\ sorting)\ are\ executed\r\n\ @param\ fileName\ \ File\ name\ where\ scores\ to\ be\ sorted\ are\ stored\r\n\ @param\ min\ Number\ of\ minutes\ the\ player\ used\ in\ their\ game\r\n\ @param\ sec\ Number\ of\ seconds\ (residual)\ the\ player\ used\ in\ their\ game\r\n
+comment2.params=nums
+comment2.target=void\ bubbleSort(int[])
+comment2.text=\r\n\ Bubble\ sort\ algorithm\ that\ procedurally\ swaps\ values\ in\ the\ array,\ exiting\ if\ values\ are\ already\ sorted\r\n\ \r\n\ @param\ nums[]\ Array\ to\ be\ sorted\r\n\ \r\n\ @author\ Jorden\ Cohen\r\n
+numComments=3

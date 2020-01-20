@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Sand
+comment0.text=\r\n\ Created\ whenever\ the\ boss\ attacks\r\n\ Only\ lasts\ for\ one\ animation\r\n\ \r\n\ @author\ Alexander\r\n\ @version\ January\ 2019\r\n
+comment1.params=
+comment1.target=Sand()
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ Death\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=w
+comment3.target=void\ addedToWorld(greenfoot.World)
+comment4.params=
+comment4.target=void\ kill()
+comment5.params=
+comment5.target=void\ animate()
+numComments=6

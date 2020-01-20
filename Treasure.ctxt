@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Treasure
+comment0.text=\r\n\ The\ treasure\ chest\ to\ be\ created\ on\ the\ boss\ level\ at\ a\ specific\ coordinate\ on\ the\ stage.\ \r\n\ The\ player\ must\ pick\ up\ the\ treasure\ before\ progressing\ through\ the\ remainder\ of\ the\ game\ in\ \r\n\ order\ to\ win.\r\n\ \r\n\ @author\ Deston\ Wong\ and\ Justin\ Huynh\r\n\ @version\ January\ 2019\r\n
+comment1.params=
+comment1.target=Treasure()
+comment1.text=\r\n\ Main\ constructor\ for\ treasure\ chest\ to\ be\ created\ on\ the\ boss\ level.\r\n
+comment2.params=w
+comment2.target=void\ addedToWorld(greenfoot.World)
+comment2.text=\r\n\ Allows\ for\ the\ world\ to\ be\ accessed\ using\ the\ world\ variable.\ Also\ initializes\ the\ grid\ used\ \r\n\ as\ the\ stage.\r\n\ \r\n\ @param\ World\ \ \ \ \ The\ world\ to\ be\ referenced.\r\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ Act\ -\ do\ whatever\ the\ Treasure\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+numComments=4

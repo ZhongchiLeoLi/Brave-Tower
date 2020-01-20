@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Start
+comment0.text=\r\n\ Starting\ screen\ for\ the\ game\r\n\ Allows\ the\ user\ to\ click\ the\ start\ button\ to\ start\ playing\ the\ game\r\n\ \r\n\ @author\ Leo\ \r\n\ @version\ January\ 2019\r\n
+comment1.params=
+comment1.target=Start()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Start.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=f
+comment3.target=void\ animate(int)
+comment4.params=
+comment4.target=void\ fadeOut()
+numComments=5

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=TextButton
+comment0.text=\r\n\ A\ Generic\ Button\ to\ display\ text\ that\ is\ clickable.\ Owned\ by\ a\ World,\ which\ controls\ click\r\n\ capturing.\r\n\ \r\n\ @author\ Jordan\ Cohen\r\n\ @version\ v0.1.5\r\n
+comment1.params=text
+comment1.target=TextButton(java.lang.String)
+comment1.text=\r\n\ Construct\ a\ TextButton\ with\ a\ given\ String\ at\ the\ default\ size\r\n\ \r\n\ @param\ text\ \ String\ value\ to\ display\r\n\ \r\n
+comment2.params=text\ textSize
+comment2.target=TextButton(java.lang.String,\ int)
+comment2.text=\r\n\ Construct\ a\ TextButton\ with\ a\ given\ String\ and\ a\ specified\ size\r\n\ \r\n\ @param\ text\ \ String\ value\ to\ display\r\n\ @param\ textSize\ \ size\ of\ text,\ as\ an\ integer\r\n\ \r\n
+comment3.params=text
+comment3.target=void\ update(java.lang.String)
+comment3.text=\r\n\ Change\ the\ text\ displayed\ on\ this\ Button\r\n\ \r\n\ @param\ \ \ text\ \ \ \ String\ to\ display\r\n\ \r\n
+numComments=4
