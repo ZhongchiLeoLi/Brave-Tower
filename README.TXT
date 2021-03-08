@@ -6,8 +6,8 @@ treasure hunting gamethat features:
 - Unique movement patterns for each monster
 - Traps and shields for strategic gameplay!
 
-For more info, head to my personal website: 
-https://zhongchi.me/Brave-Tower-3f10e9f7e6cd4495812b3d8cffbff887
+To play the game and read more about it: 
+https://www.notion.so/Brave-Tower-3f10e9f7e6cd4495812b3d8cffbff887
 ------------------------------------------------------------------------
 
 HOW TO START THIS PROJECT: Run project on Greenfoot
